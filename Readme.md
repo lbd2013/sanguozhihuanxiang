@@ -39,7 +39,7 @@
 ## 使用方法：
    0. 安装[蓝叠模拟器](https://www.bluestacks.cn/)，安装 [三国志幻想大陆](https://sgzhx.lingxigames.com/)，在模拟器中进入到游戏首页，也就是可以点开文姬助手那个页面
    1. 打开项目里面的`conf.ini`文件，按自己情况修改
-   2. [点我下载]()，解压后运行`exe`文件
+   2. [点我下载](https://github.com/lbd2013/sanguozhihuanxiang/releases)，解压后运行`exe`文件
 
 ## 常见问题
 1. 提示 ADB 连接失败
