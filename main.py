@@ -15,7 +15,6 @@ def app_path():
 
 # adb工具目录
 adbPath = app_path() + '\\adb_tools\\'
-print(adbPath)
 
 # 获取 adb 已连接的设备
 def get_drive_list(conf):
